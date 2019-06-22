@@ -1,4 +1,4 @@
-package com.mohammadasad.mapsplaces;
+package com.yourpackage.mapsplaces;
 
 import android.content.Context;
 import android.view.LayoutInflater;
