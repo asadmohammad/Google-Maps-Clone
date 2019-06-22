@@ -1,4 +1,4 @@
-package com.mohammadasad.mapsplaces.models;
+package com.yourpackage.mapsplaces.models;
 
 import android.net.Uri;
 
