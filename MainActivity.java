@@ -1,4 +1,4 @@
-package com.mohammadasad.mapsplaces;
+package com.yourpackage.mapsplaces;
 
 import android.app.Dialog;
 import android.content.Intent;
