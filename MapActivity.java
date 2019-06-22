@@ -1,4 +1,4 @@
-package com.mohammadasad.mapsplaces;
+package com.yourpackage.mapsplaces;
 
 import android.Manifest;
 import android.content.Context;
